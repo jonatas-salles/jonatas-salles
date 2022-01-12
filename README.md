@@ -19,5 +19,5 @@
   
   ### Onde estou?
   
-  * [Linkedin] (https://https://www.linkedin.com/in/jonatassalles/)
+  * [Linkedin] (https://www.linkedin.com/in/jonatassalles/)
   * jonatas.salles@outlook.com
