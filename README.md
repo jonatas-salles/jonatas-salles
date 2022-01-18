@@ -21,3 +21,7 @@
   
   * [Linkedin](https://www.linkedin.com/in/jonatassalles/)
   * jonatas.salles@outlook.com
+
+   ### Projetos
+
+  * [Mineração de dados de PDF com Python](https://github.com/jonatas-salles/pdf_datamining)
