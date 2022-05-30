@@ -16,7 +16,6 @@
   * Python, JavaScript, C, SQL
   * Machine Learning / IA
   * Data Visualization
-  * [Study Projects](https://github.com/jonatas-salles/estudos)
   
   ### Onde estou?
   
