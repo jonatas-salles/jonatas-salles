@@ -13,7 +13,7 @@
   
   * Data Analysis
   * Data Science
-  * Python, JavaScript, C, SQL
+  * Python, Java, JavaScript, C, SQL, PHP
   * Machine Learning / IA
   * Data Visualization
   
